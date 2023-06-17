@@ -6,7 +6,8 @@ layout: ../layouts/MainLayout.astro
 
 [![image](https://user-images.githubusercontent.com/77512805/209696209-dc87560f-8e55-407e-a5df-31ec31381c51.png)](https://discord.gg/sirius)
 
-Website ini masih tahap pekerjaan 
+> 
+> Website Ini Dibuat Oleh ArrayField Team, Website Ini Masih Dalam Pekerjaan, Jadi Belum Sepenuhnya Jadi.
 
 Last updated for the Beta 8 release
 
