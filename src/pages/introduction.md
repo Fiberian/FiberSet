@@ -4,26 +4,25 @@ description: The official Rayfield UI Suite documentation
 layout: ../layouts/MainLayout.astro
 ---
 
-[![image](https://user-images.githubusercontent.com/77512805/209696209-dc87560f-8e55-407e-a5df-31ec31381c51.png)](https://discord.gg/sirius)
+[![image](https://cdn.discordapp.com/attachments/1117745373939781672/1119465815163555921/image.png)](https://discord.gg/sirius)
 
-> **Note** <br/>
-> We will give early access to people who showcase our script, provided they don't leak our v3. We have an execution log for v3 early access, so you don't just leak v3 from us.
+> **Informasi** <br/>
+> Halo Selamat Datang Di Website Official Fiber Hub, Website Ini Dibuat Oleh Sirius Team, Kami Sangat Berterimakasih Kepada Sirius Karena Telah Memberikan Framework Kepada Kami! <br/>
 
+> Terakhir Diupdate Pada Tanggal **<lastupdate/>**
 
-Last updated for the Beta 8 release
+## Kenapa Harus Menggunakan Fiber Hub?
 
-## Why choose Rayfield?
+- **Performance Di Utamakan Oleh Kami**
+-  **Update Setiap Hari**
+-  **Open Source**
+-  **Tidak Menggunakan Key Sistem**
 
-- ⚖️ **Reliable and Stable**
-- 🆕 **Frequently Updated**
-- 🔓 **Open Sourced**
-- ⚙️ **Advanced features like**
+  - **Menggunakan UI Yang Bagus**
+  - **Menjaga Privasi Anda**
+  - **25K Line Code But Amazing Peformance**
 
-  - 🔑 **Key System**
-  - 🔗 **Discord Auto Joins**
-  - 🔔 **Notifications with actions**
-
-- 💃 **Amazing perfomance while having under 2.5k lines of code!**
+-  **Not Skid**
 
 ## Getting Started
 
