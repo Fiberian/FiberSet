@@ -1,30 +1,45 @@
 ---
-title: Loading the Rayfield Library
-description: Booting the Rayfield Library
+title: Peraturan Roleplay
+description: Semua Peraturan Roleplay IMRP
 layout: ../layouts/MainLayout.astro
 ---
 
-## Booting the Library
+## Peraturan Roleplay
 
-```lua
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
-```
+> ***Kami berhak membanned dan memberikan warn anda jika anda tidak mengikuti rules roleplay kami, jadi tolong untuk mengikuti peraturan roleplay kami***
 
-### Secure Mode
+### Peraturan Lalu Lintas
 
-If the game you're trying to run Rayfield Interface Suite on, is detecting or crashing when you use Rayfield Interface Suite, try using Secure Mode:
+> Menyalakan Collision <br/>
+> ***Tidak mengikuti peraturan ini maka anda akan mendapatkan Warn.*** <br/>
 
-- Place `getgenv().SecureMode = true` above the initial Rayfield loadstring
+> Dilarang Lawan Arah <br/>
+> ***Tidak mengikuti peraturan ini maka anda akan dibanned secara langsung oleh team indonesia merdeka roleplay.***<br/>
 
-Rayfield will now use Secure Mode and attempt to reduce detection
+> Dilarang Menerobos Lampu Merah<br/>
+> ***Tidak mengikuti peraturan ini maka anda akan di kick oleh team indonesia merdeka roleplay.***<br/>
 
-- Note: This may cause some elements of the UI to look lower quality or may increase loading times slightly
+> Anda Di Wajibkan Menyalakan PVP Mode<br/>
+> ***Tidak menyalakan mode pvp maka anda akan diberi warn.***<br/>
 
-### Enabling Configuration Saving
+> Mengikuti Arahan Dari Host Imrp<br/>
+> ***Tidak mengikuti peraturan ini maka anda akan diberi warn.***<br/>
 
-- Enable ConfigurationSaving in the CreateWindow function
-- Choose an appropiate FileName in the CreateWindow function
-- Choose an unique flag identifier for each supported element you create
-- Place `Rayfield:LoadConfiguration()` at the bottom of all your code
+> Anda Diwajibkan Menyalakan Sein Jika Ingin Belok<br/>
+> ***Tidak Mengikuti peraturan ini maka anda akan diberi warn***<br/>
 
-Rayfield will now automatically save and load your configuration
+> Dilarang Rusuh Jika Roleplay Dimulai<br/>
+> ***Tidak mengikuti peraturan ini maka anda akan dibanned secara langsung oleh team imrp.***<br/>
+
+> Dilarang Membahas Mobil Jika Roleplay Dimulai<br/>
+> ***Tidak mengikuti peraturan ini maka anda akan diberi warn.***<br/>
+
+> Memberi Jalan Kepada Kendaraan Emergency<br/>
+> ***Tidak mengikuti peraturan ini maka anda akan diberi warn.***<br/>
+
+> Dilarang Kabur Jika Anda Dalam Masalah<br/>
+> ***Tidak mengikuti peraturan ini maka anda akan diberi warn atau bahkan ban.***<br/>
+
+> Dilarang Spawn Kendaraan Berstrobo<br/>
+> ***Tidak mengikuti peraturan ini maka anda akan diberi warn atau bahkan ban.***<br/>
+
