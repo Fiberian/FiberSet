@@ -6,8 +6,9 @@ layout: ../layouts/MainLayout.astro
 
 [![image](https://user-images.githubusercontent.com/77512805/209696209-dc87560f-8e55-407e-a5df-31ec31381c51.png)](https://discord.gg/sirius)
 
-> 
-> Website Ini Dibuat Oleh ArrayField Team, Website Ini Masih Dalam Pekerjaan, Jadi Belum Sepenuhnya Jadi.
+> **Note** <br/>
+> We will give early access to people who showcase our script, provided they don't leak our v3. We have an execution log for v3 early access, so you don't just leak v3 from us.
+
 
 Last updated for the Beta 8 release
 
