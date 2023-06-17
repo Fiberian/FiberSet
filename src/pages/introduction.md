@@ -1,6 +1,6 @@
 ---
-title: Kontol
-description: The official Rayfield UI Suite documentation
+title: Introduction
+description: The official Fiber Hub Website
 layout: ../layouts/MainLayout.astro
 ---
 
@@ -24,8 +24,6 @@ layout: ../layouts/MainLayout.astro
 
 -  **Not Skid**
 
-## Getting Started
+## Informasi
 
-To get started with Rayfield, check out the sidebar at the left. It provides quick links on how to use all of the Rayfield features for your own project. Keep this documentation around so that you can always refer back to it as you build.
-
-Found a missing feature that you can't live without? Please suggest it on Discord [(#sirius-forums channel)](https://discord.gg/sirius) and even consider adding it yourself on GitHub! Rayfield is an open source project and contributions from developers like you are more than welcome!
+> **Kami Tidak Mengklaim Semua Code Milik Kami (Dicode Oleh Kami) Kami Hanya Merecode Script Untuk Menjadi Lebih Baik, Dan Kami Akan Memberikan Credit Kepada Orang Yang Telah Membantu Kami**
