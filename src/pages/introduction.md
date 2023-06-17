@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Kontol
 description: The official Rayfield UI Suite documentation
 layout: ../layouts/MainLayout.astro
 ---
