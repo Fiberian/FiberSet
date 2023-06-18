@@ -1,29 +1,18 @@
 ---
 title: Introduction
-description: The official Fiber Hub Website
+description: The official Lyofe Shop Website
 layout: ../layouts/MainLayout.astro
 ---
 
-[![image](https://cdn.discordapp.com/attachments/1117745373939781672/1119465815163555921/image.png)](https://discord.gg/sirius)
+[![image](https://cdn.discordapp.com/attachments/1097602251809362042/1099837051119087707/image.png)](
+https://discord.gg/jKEgFwy68Z)
 
-> **Informasi** <br/>
-> Halo Selamat Datang Di Website Official Fiber Hub, Website Ini Dibuat Oleh Sirius Team, Kami Sangat Berterimakasih Kepada Sirius Karena Telah Memberikan Framework Kepada Kami! <br/>
+> **Lyofe Shop Introduction** <br/>
+> ***Lyofe Shop is a trusted Lumber Tycoon 2 Shop and has 500+ vouches, and fast response as well, Lyofe Shop was made by Lyofe#0001 on XX/XX/XX, here sell a lot of base, items, money, and others, All that are sold are very cheap starting from 3 $, and 300 Robux***<br/>
 
-> Terakhir Diupdate Pada Tanggal **<lastupdate/>**
+> ***Total Vouch : ../fiber/lyofe-set/memberMessage#cd.astro***
 
-## Kenapa Harus Menggunakan Fiber Hub?
-
-- **Performance Di Utamakan Oleh Kami**
--  **Update Setiap Hari**
--  **Open Source**
--  **Tidak Menggunakan Key Sistem**
-
-  - **Menggunakan UI Yang Bagus**
-  - **Menjaga Privasi Anda**
-  - **25K Line Code But Amazing Peformance**
-
--  **Not Skid**
-
-## Informasi
-
-> **Kami Tidak Mengklaim Semua Code Milik Kami (Dicode Oleh Kami) Kami Hanya Merecode Script Untuk Menjadi Lebih Baik, Dan Kami Akan Memberikan Credit Kepada Orang Yang Telah Membantu Kami**
+# Why do you have to buy it at Lyo Shop?
+> - Cheap price
+> - 500+ Vouch
+> - Trusted
